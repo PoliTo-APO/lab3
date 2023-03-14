@@ -3,7 +3,7 @@ In questo laboratorio si introduce la programmazione a oggetti tramite la realiz
 L'obiettivo del laboratorio è imparare a "vedere" e rappresentare un problema in termini di classi.
 
 Se si preferisce disegnare i diagrammi da pc si può utilizzare [PlantUML](https://plantuml.com/class-diagram),
-tramite [l'editor online](https://www.plantuml.com/plantuml/uml/), oppure usare software come [StarUML](https://staruml.io/).
+tramite [l'editor online](https://www.plantuml.com/plantuml/uml/), oppure usare un software come [StarUML](https://staruml.io/).
 
 L'ultimo esercizio, invece, riguarda la complessità computazione.
 Per svolgerlo è necessario installare [Jupyter Notebook](https://jupyter.org/) e [matplotlib](https://matplotlib.org/).
