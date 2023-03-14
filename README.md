@@ -5,7 +5,7 @@ L'obiettivo del laboratorio è imparare a "vedere" e rappresentare un problema i
 Se si preferisce disegnare i diagrammi da pc si può utilizzare [PlantUML](https://plantuml.com/class-diagram),
 tramite [l'editor online](https://www.plantuml.com/plantuml/uml/), oppure usare un software come [StarUML](https://staruml.io/).
 
-L'ultimo esercizio, invece, riguarda la complessità computazione.
+L'ultimo esercizio, invece, riguarda la complessità computazionale.
 Per svolgerlo è necessario installare [Jupyter Notebook](https://jupyter.org/) e [matplotlib](https://matplotlib.org/).
 Istruzioni riguardanti l'installazione e l'utilizzo verranno mostrati durante il laboratorio.
 
